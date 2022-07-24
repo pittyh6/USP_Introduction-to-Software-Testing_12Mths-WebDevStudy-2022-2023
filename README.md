@@ -1,6 +1,6 @@
 # Web Developer Study
 ## 12 months web developer study. I decided to dedicate at least 12 months to learn web development.
-## Course HTML, CSS, and Javascript for Web Developers by Johns Hopkins University - Coursera
+## Course Introduction to Software testing by University of Minnesota - Coursera
 
 ![Begin Banner](/Documentation/top-1200x350.gif)
 
