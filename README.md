@@ -8,10 +8,11 @@
 * Online courses, challenges and creation of my own projects.
 
 ## What I learned/used (Link for details)
-* Overall Software Testing [link](https://github.com/pittyh6/UniversityOfMinnesota_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/learnedTestSoftware.md)
-* Software Testing Life Cycle [link](https://github.com/pittyh6/UniversityOfMinnesota_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/learnedSoftwareTestingLifeCycle.md)
-* Types of Testing [link](https://github.com/pittyh6/UniversityOfMinnesota_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/learnedTypesofTesting.md)
-* Testing Techniques[link](https://github.com/pittyh6/UniversityOfMinnesota_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/learnedTestingTechniques.md)
+* Overall Software Testing [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/blob/master/learnedTestSoftware.md)
+* Software Testing Life Cycle [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/blob/master/learnedSoftwareTestingLifeCycle.md)
+* Types of Testing [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/blob/master/learnedTypesofTesting.md)
+* Testing Techniques [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/blob/master/learnedTestingTechniques.md)
+* JUnit [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/blob/master/learnedJUnit.md)
 <!--
 * Git & GitHub [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedGit&GitHub.md)
 * HTML 5 [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
@@ -29,6 +30,7 @@
 * (Week Two) - SDLC/STLC 
 * (Week Two) - Types of Testing
 * (Week Two) - Testing Techniques
+* (Week Thee) - JUit
 
 ## Previous Project
 * (1 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023)
