@@ -45,6 +45,7 @@
 
 * technique functional testing
 ![Middle Banner](/tecniq_functional_test.png)
+![Middle Banner](/analisedoValorlimite.png)
 
 
 * resources [link](https://www.softwaretestinghelp.com/software-testing-techniques-2/)   
