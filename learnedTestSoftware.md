@@ -21,6 +21,8 @@
             * CMMi mainly focuses on software development practices, giving no or very less attention on the testing processes     which involves 30% to 40% of complete project efforts. 
             * Hence TMMi was introduced by TMMi foundation to focus on testing processes.
                 TMMi framework focuses completely on the processes and practices that are applied to software testing with intent to raise the quality and efficiency of the testing process.
-
+    * Mapa Conceitual
+        [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/MapaConceitual.png
+        )
 
 ![End Banner](/Documentation/botton-1200x350.gif)
