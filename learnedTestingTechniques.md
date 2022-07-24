@@ -43,6 +43,7 @@
     * Path Coverage
         * The Path coverage-based testing designs the test cases such that all the linearly independent paths in a program are executed at least once. A linearly independent path can be defined through the control flow graph. A control flow graph defines how the instruction of a program gets executed.
 
+* technique functional testing
 ![Middle Banner](/tecniq_functional_test.png)
 
 
