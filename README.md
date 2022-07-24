@@ -8,6 +8,8 @@
 * Online courses, challenges and creation of my own projects.
 
 ## What I learned/used (Link for details)
+* Overall Software Testing [link](https://github.com/pittyh6/UniversityOfMinnesota_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/learnedTestSoftware.md)
+* Software Testing Life Cycle [link](https://github.com/pittyh6/UniversityOfMinnesota_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/learnedSoftwareTestingLifeCycle.md)
 <!--
 * Git & GitHub [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedGit&GitHub.md)
 * HTML 5 [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
@@ -21,6 +23,8 @@
 -->
 ## Project + Result
 * (Week One) - Introduction [link](https://github.com/pittyh6/UniversityOfMinnesota_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/learnedTestSoftware.md)
+* (Week Two) - Concepts [link](https://github.com/pittyh6/UniversityOfMinnesota_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/learnedTestSoftware.md)
+* (Week Two) - SDLC/STLC [link](https://github.com/pittyh6/UniversityOfMinnesota_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023/learnedSoftwareTestingLifeCycle.md)
 
 ## Previous Project
 * (1 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023)
