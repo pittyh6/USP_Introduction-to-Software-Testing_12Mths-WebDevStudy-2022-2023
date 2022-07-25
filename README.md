@@ -31,7 +31,8 @@
 * (Week Two) - Types of Testing
 * (Week Two) - Testing Techniques
 * (Week Thee) - JUit
-
+* (Week Four) - Structural Testing
+* (Week Five) - Mutation Testing
 ## Previous Project
 * (1 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023)
 * (2 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/2-12Mths-WebDevelopmentStudy-2022-2023)
